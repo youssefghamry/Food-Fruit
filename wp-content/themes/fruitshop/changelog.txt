@@ -1,0 +1,322 @@
+6.3 4/5/2022
+Update:
+    - revslider6.5.21
+6.2 23/4/2022
+Update:
+    - revslider6.5.20
+    - WPBakery Page Builder 6.9.0
+6.1 14/2/2022
+Update:
+    - revslider6.5.15
+    - WPBakery Page Builder 6.8.0
+6.0 20/12/2021
+Update:
+    - revslider6.5.11
+    - WPBakery Page Builder 6.7.0
+5.9 30/6/2021
+Update:
+    - revslider6.5.4
+5.8 4/5/2021
+Updated:
+    - WPBakery Page Builder 6.6.0
+    - element SV Language Selector
+    - revslider6.4.10
+5.7 10/3/2021
+Updated:
+    - WPBakery Page Builder
+    - 7up-core plugin
+    - Instagram element
+
+5.6 5/1/2020
+Updated:
+    - WPBakery Page Builder 6.5
+
+Fixed:
+    - Remove var_dump in instagram element
+
+5.5 24/12/2020
+Updated:
+    - Slider Revolution
+    - Logo header query post_status => publish
+
+1.1
+Fixed:
+    - Translate mini cart
+Update:
+    - File pot
+1.2
+Fixed:
+    - Fix num decimal mini cart
+1.3
+Fixed:
+    - Fix translate
+Update:
+    - vc editor set post types
+    - File pot
+1.4
+Update:
+    - Update home 6
+      + Element product style 14, style 13 - layout 5
+      + Element banner slider style 6
+    - File pot
+1.5
+Update:
+    - Update home 7
+      + Create element Mini cart, Search product
+      + Element product style 13 - layout 6
+      + Element product style 13 - layout 3 add style navigation tab
+      + Element banner slider style 71.5
+1.6
+Update:
+    - Update home 8
+      + Element Logo header style 4
+      + Element Banner slider style 7
+      + Element Menu style 5
+      + Element Banner style 5
+      + Element Categories box style 3
+      + Element Client review style 4
+      + Element Blog style 7
+    - File pot
+    - Visual Composer 5.2
+1.7
+Update:
+    - Update home 9
+      + Element Menu style 6
+      + Element Banner slider style 8
+      + Element product style 9 : button load more ajax
+    - Option image check style element
+    - File pot
+    - Jquery custom scrollbar plugin to Version: 2.8.3 from Version: 3.1.5 (file .js and .css)
+Fix
+    - Main color
+    - Edit content
+    - Css Mega menu responsive
+1.8
+Update:
+    - Option Header Page, Footer Page in shop and single product
+1.9
+Update:
+    - Home 10
+      + Element banner style 7
+    - Visual Composer 5.2.1
+    - File pot
+2.0
+Update:
+    - Element SV Language Selector (Activate WPML Multilingual CMS plugin)
+2.1
+Update:
+    - Label icon
+Fix:
+    - Label sale hide
+    - Hide gallery control when no image gallery product
+    - Hide gallery control product in firefox browser
+2.2
+Update:
+    - Home 11
+    - Element service style 5
+2.3
+Update:
+    - Term description
+    - Visual Composer 5.3
+Fix:
+    - RTL gallery control product page
+    - Element Product tab 12+13 active false
+2.4
+Update:
+    - Visual Composer 5.4.1
+Fix:
+    - RTL
+    - URL language
+
+2.5: 21/11/2017
+Update:
+    - Visual Composer 5.4.4
+    - 7up-core
+Fix:
+    - Mini cart ajax (x2 product, x2 remover product,  Decimal separator)
+    - One click import menu false
+    - Sidebar search position
+    - RTL Position search
+    - Remove zoom effect in mobile device
+    - Structural change detail gallery and fix image data variable product
+2.6: 16/12/2017
+Fix:
+    - Active wishlist style
+    - Quantity click
+2.7: 29/01/2017
+Update:
+    - Mini cart ajax in page cat
+    - Visual Composer 5.4.5
+2.8: 08/02/2018
+Fix:
+    - translate 'Next', 'Prev'
+    - woo 3.3.1: mini cart remove, button update cart js
+2.9: 09/03/2018
+Fix:
+    - Fix google font return null: Replace google font key API of option tree
+    - Element Top header: wc_get_page_id replace WC_Cart::get_checkout_url
+    - Fix version of file woocommerce custom
+    - Fix set post types active Visual Composer
+Update:
+    - Visual Composer 5.4.6
+3.0: 10/03/2018
+Update:
+    - Visual Composer 5.4.7
+3.1: 13/03/2018
+Update:
+    - Remove image default in loop of product
+    - Option custom image product list and product detail
+
+3.2: 06/04/2018
+Update:
+    - instagram element token and size
+    - plugin 7up-code
+3.3: 20/04/2018
+Fix:
+    - Element masonry: font size title 20px
+    - Element style5: font size title 20px
+Update:
+    - Home 12: element product style 1b
+3.4: 11/06/2018
+Fix:
+    - fix hidden color picker
+    - file fruitshop.pot
+3.5: 18/06/2018
+Fix:
+    - fix template.php
+    - fix otf_regen_thumbs.php in 7upcore
+    - fix line 152 file Customize_Control.php
+    - fix s7upf_instagram_api_curl_connect()
+    - multi_language_control.php
+    - wpml-config.xml
+    - fix background image .box-parallax not work (Add css -webkit-backface-visibility: hidden;  -webkit-transform: translateZ(0);)
+Update:
+    - file class-tgm-plugin-activation.php
+    - Support plugin WC vendor
+    - Element account manager
+    - File translate fruitshop.pot
+    - plugin 7up-code
+3.6: 21/06/2018
+Fix:
+    - Active WC vendor
+3.7: 31/07/2018
+Fix:
+    - Fix RTL VC.5.5.2
+Update:
+    - Template woocommerce version
+    - Visual Composer 5.5.2
+3.8: 03/08/2018
+Fix:
+    - Search on live click 2
+    - Adblock
+    - Rtl
+3.9: 26/09/2018
+Fix:
+    - Page cart: Product deletion for the first time does not work
+    - Change function get_home_url -> home_url
+    - Fix posts_per_page = -1
+    - Fix do_shortcode mailchimp popup
+    - Fix active Polylang plugin. Update file: Multi_Language_Control.php
+    - Fixed missing icon in icon option
+Update:
+    - Visual Composer 5.5.4
+    - File fruitshop.pot
+4.0: 12/11/2018
+Fix:
+    - Fix css comment list woo
+    - Fix WooCommerce 3.5.0
+    - Fix Option tree
+Update:
+    - Visual Composer 5.5.5
+    - Option colorpicker opacity type
+    - Search live product publish
+4.1: 17/12/2018
+Fix:
+    -
+Update:
+    - Update element advertisement
+    - Update element content box
+    - Update element gallery photo
+    - Update element service
+    - New element tab
+    - New element carousel slider
+    - 7upcore1.1
+    - fruitshop.pot
+    - Visual Composer 5.6
+    - Home 15, 16, 17, 18
+4.2: 07/01/2019
+Fix:
+    - function s7upf_list_vc_meage_menu_page
+4.3: 
+Update:
+    - Product variable
+    - Shop ajax
+    - Attributes type color, lable, image
+4.4:
+Update:
+    - Menu logo fixed
+    - Shop 2 column mobi
+    - Visual Composer 6.0.2
+    - Option blog style
+Fix:
+    Validator page post formart audio
+4.5:
+Update:
+    - Plugin 7up-core v-1.3
+Fix:
+    import data
+4.6:
+Fix:
+    Setup Visual Composer
+    Search product
+4.7:
+Fix:
+    7up-Core v1.4: s7upf_scrape_instagram(), otf_regen_thumbs.php
+    Menu is_object($args)
+Update:
+    js_composer6.0.5
+4.8 26/2/2020
+Fix:
+    - style qty to safari 
+    - contact form to RTL 
+Updated:
+	- TM extra product options plugin.
+	- revslider plugin
+	- js_composer plugin
+4.9 23/3/2020
+Fix:
+Updated:
+	- woocommerce-tm-extra-product-options 5.0.5
+	- revslider plugin 6.2
+	- js_composer plugin 6.1
+5.0 19/4/2020
+Fix:
+	fas icon
+	wishlist
+Updated:
+	- woocommerce-tm-extra-product-options 5.0.8
+	- revslider plugin 6.2
+	- js_composer plugin 6.1
+5.1 15/8/2020
+Fix:
+    js .live -> .on
+Updated:
+    - woocommerce-tm-extra-product-options 5.0.12.4
+    - revslider plugin 6.2.18
+    - js_composer plugin 6.2
+    - 7up-core 1.5
+5.2 8/9/2020
+Updated:
+    - js_composer 6.3.0 
+    - woocommerce-tm-extra-product-options 5.0.12.8
+    - revslider 6.2.22
+5.3 15/10/2020
+Updated:
+	- js_composer 6.4
+	- revslider plugin 6.2.22
+	- removed woocommerce-tm-extra-product-options 5.0.12.8
+
+5.4 16/12/2020
+Updated:
+    - WPBakery Page Builder 6.4.2
+    - Slider Revolution 6.3.3
